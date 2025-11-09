@@ -1,0 +1,200 @@
+Sensor data read: 38
+Motor Status: OFF
+Sensor data read: 10
+Motor Status: ON
+Sensor data read: 15
+Motor Status: ON
+Sensor data read: 15
+Motor Status: ON
+Sensor data read: 32
+Motor Status: OFF
+Sensor data read: 16
+Motor Status: ON
+Sensor data read: 39
+Motor Status: OFF
+Sensor data read: 42
+Motor Status: OFF
+Sensor data read: 23
+Motor Status: ON
+Sensor data read: 43
+Motor Status: OFF
+Sensor data read: 15
+Motor Status: ON
+Sensor data read: 36
+Motor Status: OFF
+Sensor data read: 14
+Motor Status: ON
+Sensor data read: 28
+Motor Status: ON
+Sensor data read: 39
+Motor Status: OFF
+Sensor data read: 35
+Motor Status: ON
+Sensor data read: 11
+Motor Status: ON
+Sensor data read: 15
+Motor Status: ON
+Sensor data read: 44
+Motor Status: OFF
+Sensor data read: 11
+Motor Status: ON
+Sensor data read: 44
+Motor Status: OFF
+Sensor data read: 32
+Motor Status: OFF
+Sensor data read: 23
+Motor Status: ON
+Sensor data read: 32
+Motor Status: ON
+Sensor data read: 33
+Motor Status: OFF
+Sensor data read: 22
+Motor Status: ON
+Sensor data read: 33
+Motor Status: ON
+Sensor data read: 36
+Motor Status: OFF
+Sensor data read: 46
+Motor Status: OFF
+Sensor data read: 48
+Motor Status: OFF
+Sensor data read: 36
+Motor Status: OFF
+Sensor data read: 41
+Motor Status: OFF
+Sensor data read: 40
+Motor Status: OFF
+Sensor data read: 44
+Motor Status: OFF
+Sensor data read: 43
+Motor Status: OFF
+Sensor data read: 27
+Motor Status: OFF
+Sensor data read: 29
+Motor Status: ON
+Sensor data read: 29
+Motor Status: ON
+Sensor data read: 29
+Motor Status: OFF
+Sensor data read: 19
+Motor Status: ON
+Sensor data read: 40
+Motor Status: OFF
+Sensor data read: 15
+Motor Status: ON
+Sensor data read: 12
+Motor Status: ON
+Sensor data read: 39
+Motor Status: OFF
+Sensor data read: 48
+Motor Status: OFF
+Sensor data read: 40
+Motor Status: OFF
+Sensor data read: 37
+Motor Status: OFF
+Sensor data read: 39
+Motor Status: OFF
+Sensor data read: 12
+Motor Status: ON
+Sensor data read: 18
+Motor Status: ON
+Sensor data read: 16
+Motor Status: ON
+Sensor data read: 10
+Motor Status: ON
+Sensor data read: 18
+Motor Status: ON
+Sensor data read: 11
+Motor Status: ON
+Sensor data read: 28
+Motor Status: OFF
+Sensor data read: 12
+Motor Status: ON
+Sensor data read: 34
+Motor Status: OFF
+Sensor data read: 49
+Motor Status: OFF
+Sensor data read: 31
+Motor Status: OFF
+Sensor data read: 46
+Motor Status: OFF
+Sensor data read: 40
+Motor Status: OFF
+Sensor data read: 33
+Motor Status: OFF
+Sensor data read: 46
+Motor Status: OFF
+Sensor data read: 34
+Motor Status: ON
+Sensor data read: 48
+Motor Status: OFF
+Sensor data read: 22
+Motor Status: ON
+Sensor data read: 25
+Motor Status: ON
+Sensor data read: 31
+Motor Status: OFF
+Sensor data read: 14
+Motor Status: ON
+Sensor data read: 32
+Motor Status: ON
+Sensor data read: 46
+Motor Status: OFF
+Sensor data read: 25
+Motor Status: OFF
+Sensor data read: 14
+Motor Status: ON
+Sensor data read: 37
+Motor Status: OFF
+Sensor data read: 38
+Motor Status: OFF
+Sensor data read: 41
+Motor Status: OFF
+Sensor data read: 27
+Motor Status: ON
+Sensor data read: 31
+Motor Status: OFF
+Sensor data read: 10
+Motor Status: ON
+Sensor data read: 16
+Motor Status: ON
+Sensor data read: 31
+Motor Status: OFF
+Sensor data read: 19
+Motor Status: ON
+Sensor data read: 43
+Motor Status: OFF
+Sensor data read: 16
+Motor Status: ON
+Sensor data read: 26
+Motor Status: OFF
+Sensor data read: 40
+Motor Status: OFF
+Sensor data read: 50
+Motor Status: OFF
+Sensor data read: 34
+Motor Status: OFF
+Sensor data read: 31
+Motor Status: OFF
+Sensor data read: 18
+Motor Status: ON
+Sensor data read: 16
+Motor Status: ON
+Sensor data read: 29
+Motor Status: OFF
+Sensor data read: 32
+Motor Status: OFF
+Sensor data read: 42
+Motor Status: OFF
+Sensor data read: 13
+Motor Status: ON
+Sensor data read: 32
+Motor Status: OFF
+Sensor data read: 22
+Motor Status: ON
+Sensor data read: 13
+Motor Status: ON
+Sensor data read: 26
+Motor Status: ON
+Sensor data read: 46
+Motor Status: OFF
