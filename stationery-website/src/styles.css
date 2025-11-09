@@ -1,0 +1,22 @@
+/* Global styles for Stationery Website */
+:root{
+  --container-max-width: 1140px;
+}
+
+html,body{
+  height:100%;
+  font-family: 'Roboto', sans-serif;
+  margin:0;
+}
+
+/* Basic container spacing used by app template */
+.container{
+  max-width:var(--container-max-width);
+  padding-top:1rem;
+  padding-bottom:2rem;
+}
+
+/* Utility: ensure router outlet content has some spacing */
+router-outlet, main{
+  display:block;
+}
