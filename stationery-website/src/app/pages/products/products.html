@@ -1,0 +1,23 @@
+<section class="products" id="products">
+  <h2>Our Featured Products</h2>
+  <p class="section-subtitle">Explore our carefully curated stationery, art supplies, and desk organizers to inspire your creativity.</p>
+
+  <div class="grid">
+    <ng-container *ngFor="let product of products">
+      <div class="product-card">
+        <div class="product-image-wrapper">
+          <img [src]="product.imageUrl" [alt]="product.name" class="product-image">
+          <span class="category-tag">{{ product.category }}</span>
+        </div>
+        <div class="product-info">
+          <h3 class="product-title">{{ product.name }}</h3>
+          <p class="product-description">{{ product.description }}</p>
+        </div>
+        <div class="product-footer">
+          <span class="price">${{ product.price }}</span>
+          <button class="buy-btn">Add to Cart</button>
+        </div>
+      </div>
+    </ng-container>
+  </div>
+</section>
